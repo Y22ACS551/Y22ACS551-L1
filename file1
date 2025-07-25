@@ -1,3 +1,7 @@
 exercises on the git 
 By using the version control system
+<<<<<<< HEAD
 modification
+=======
+this is file1 after modification
+>>>>>>> 4a577e6812e02c3eda9991da15ffd67187b49a58
